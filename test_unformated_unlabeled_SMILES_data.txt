@@ -1,0 +1,10 @@
+732 872-50-4 N-methylpyrrolidone 1.00 liq -0.11	O=C1CCCN1C
+737 95-55-6 2-aminophenol -0.72 172 0.60	c1cccc(N)c1O
+742 51-79-6 O-ethyl_carbamate 0.85 49 -0.02	O=C(OCC)N
+747 63-25-2 carbaryl -3.28 142 2.35	O=C(Oc(c(c(ccc1)cc2)c1)c2)NC
+752 598-50-5 N-methylurea 1.13 102 -1.09	O=C(NC)N
+757 79-06-1 acrylamide 0.96 85 -0.81	O=C(N)C=C
+762 103-90-2 4-hydroxyacetanilide -1.03 167 0.27	O=C(Nc(ccc(O)c1)c1)C
+767 79-46-9 2-nitropropane -0.62 liq 0.87	CC(C)N(=O)=O
+772 86-57-7 1-nitronaphthalene -3.54 60 2.99	O=N(=O)c(c(c(ccc1)cc2)c1)c2
+777 62-23-7 4-nitrobenzoic_acid -2.80 242 1.69	O=C(O)c(ccc(N(=O)=O)c1)c1
